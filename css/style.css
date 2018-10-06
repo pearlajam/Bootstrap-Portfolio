@@ -1,0 +1,83 @@
+.navbar {
+    position: absolute;
+}
+
+.navbar-nav a {
+    background-color: #ffffff;
+    color:#777777;
+    border-left: 1px solid #ccc;
+}
+
+.name {
+    font-family: "Georgia", "Times", "Times New Roman", "serif";
+    background-color: #4aaaa5;
+    color: #ffffff;
+    border-color: #cccccc;
+    border: 1px solid;
+    font-size: 32px;
+    padding: 20px;
+    text-align: center;
+}
+
+.header {
+    background-color: #ffffff;
+    border: 1px solid #dddddd;
+    font-family: "Georgia", "Times", "Times New Roman", "serif";
+}
+
+.subheader {
+    font-family: "Georgia", "Times", "Times New Roman", "serif";
+    color: #4aaaa5;
+    font-size: 24px;
+    font-weight: 600;
+    padding: 0.5em;
+}
+
+body {
+    background-color: skyblue;
+}
+
+.container {
+    width: 960px;   
+    border: 1px solid #dddddd;
+    margin-top: 2em;
+    background-color: #ffffff;
+    padding: 2em;
+}
+
+.singleLineInput {
+    width: 500px; 
+}
+
+.multiLineInput {
+    width: 500px;
+    height: 200px;
+}
+
+.submitButton {
+    background-color:#4aaaa5;
+    border: none;
+    color: white;
+    margin-left:15px;
+}
+
+.footer-div {
+    border: none;
+    height: 10px;
+    background-color: #4aaaa5;
+    margin-bottom: 0px;
+}
+
+footer {
+    clear: both;
+    background-color: #666666;
+    color: #777777;
+    padding: 30px;
+    text-align: center;
+}
+
+* {
+    font-family: 'Hi Melody', cursive;
+    font-size: 24px;;
+}
+
